@@ -1,0 +1,11 @@
+C:\Users\325L-11\Desktop\Эрматов\Практика 19-ПТПМ\bin\Debug\Практика 19-ПТПМ.exe.config
+C:\Users\325L-11\Desktop\Эрматов\Практика 19-ПТПМ\bin\Debug\Практика 19-ПТПМ.exe
+C:\Users\325L-11\Desktop\Эрматов\Практика 19-ПТПМ\bin\Debug\Практика 19-ПТПМ.pdb
+C:\Users\325L-11\Desktop\Эрматов\Практика 19-ПТПМ\obj\Debug\Практика 19-ПТПМ.csproj.AssemblyReference.cache
+C:\Users\325L-11\Desktop\Эрматов\Практика 19-ПТПМ\obj\Debug\Практика 19-ПТПМ.csproj.SuggestedBindingRedirects.cache
+C:\Users\325L-11\Desktop\Эрматов\Практика 19-ПТПМ\obj\Debug\Практика_19_ПТПМ.Form1.resources
+C:\Users\325L-11\Desktop\Эрматов\Практика 19-ПТПМ\obj\Debug\Практика_19_ПТПМ.Properties.Resources.resources
+C:\Users\325L-11\Desktop\Эрматов\Практика 19-ПТПМ\obj\Debug\Практика 19-ПТПМ.csproj.GenerateResource.cache
+C:\Users\325L-11\Desktop\Эрматов\Практика 19-ПТПМ\obj\Debug\Практика 19-ПТПМ.csproj.CoreCompileInputs.cache
+C:\Users\325L-11\Desktop\Эрматов\Практика 19-ПТПМ\obj\Debug\Практика 19-ПТПМ.exe
+C:\Users\325L-11\Desktop\Эрматов\Практика 19-ПТПМ\obj\Debug\Практика 19-ПТПМ.pdb
